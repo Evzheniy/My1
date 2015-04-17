@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Tickets">
+</Property><Property Name="Solution File" Value="D:\Evgeniy\Tickets\Tickets.sln">
+</Property><Property Name="User Options File" Value="D:\Evgeniy\Tickets\Tickets.suo">
+</Property><Property Name="Date" Value="12 марта 2011 г.">
+</Property><Property Name="Time" Value="19:35">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Tickets.sln" Description="File successfully backed up as D:\Evgeniy\Tickets\Backup\Tickets.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Tickets.suo" Description="File successfully backed up as D:\Evgeniy\Tickets\Backup\Tickets.suo">
+</Event><Event ErrorLevel="0" Project="Tickets" Source="Tickets\Tickets.csproj" Description="Project file successfully backed up as D:\Evgeniy\Tickets\Backup\Tickets\Tickets.csproj">
+</Event><Event ErrorLevel="0" Project="Tickets" Source="Tickets\Form1.cs" Description="File successfully backed up as D:\Evgeniy\Tickets\Backup\Tickets\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Tickets" Source="Tickets\Form1.Designer.cs" Description="File successfully backed up as D:\Evgeniy\Tickets\Backup\Tickets\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Tickets" Source="Tickets\Program.cs" Description="File successfully backed up as D:\Evgeniy\Tickets\Backup\Tickets\Program.cs">
+</Event><Event ErrorLevel="0" Project="Tickets" Source="Tickets\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Evgeniy\Tickets\Backup\Tickets\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Tickets" Source="Tickets\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Evgeniy\Tickets\Backup\Tickets\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Tickets" Source="Tickets\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Evgeniy\Tickets\Backup\Tickets\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Tickets" Source="Tickets\Properties\Settings.settings" Description="File successfully backed up as D:\Evgeniy\Tickets\Backup\Tickets\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Tickets" Source="Tickets\Form1.resx" Description="File successfully backed up as D:\Evgeniy\Tickets\Backup\Tickets\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Tickets" Source="Tickets\Properties\Resources.resx" Description="File successfully backed up as D:\Evgeniy\Tickets\Backup\Tickets\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Tickets" Source="Tickets\Tickets.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Tickets" Source="Tickets\Tickets.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Tickets.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Tickets.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Tickets" Source="Tickets\Tickets.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
